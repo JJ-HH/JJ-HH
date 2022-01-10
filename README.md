@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @JJ-HH
-- Gist: https://gist.github.com/JJ-HH
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in exposing by service/program to real world.
+- 🌱 I’m currently learning Kubernetes!
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me 
+  - Email: docessonhos@naver.com
 
 <!---
 JJ-HH/JJ-HH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
