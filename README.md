@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JJ-HH
-- 👀 I’m interested in exposing my service/program to real world.
+- 👀 I’m interested in deploying my service/program to real world.
 - 🌱 I’m currently learning Kubernetes!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
